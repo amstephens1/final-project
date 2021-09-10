@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Austin_Housing.ipynb
+web: voila --port=$PORT --no-browser --show_tracebacks=True --debug --enable_nbextensions=True Austin_Housing.ipynb Kings_County_Housing.Notebook.ipynb
